@@ -1,7 +1,6 @@
 numpy
 PyYAML>=6.0
 jsonlines
-python-dotenv
 wandb
 openai>=1.0
 requests

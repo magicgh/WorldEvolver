@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments and secrets
+.env
+.env.*
+.venv/
+venv/
+
+# Local tooling
+.omc/
+.omx/
+.vscode/
+.idea/
+
+# Generated evaluation artifacts
+/data/
+/results/
+/logs/
+/checkpoints/
+/wandb/
+*.log
+
+# OS metadata
+.DS_Store
